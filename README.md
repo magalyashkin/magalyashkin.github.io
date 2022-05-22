@@ -1,2 +1,2 @@
-# magalyashkin.github.io
+# Максим Галяшкин
 Мой первый сайт
